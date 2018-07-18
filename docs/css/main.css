@@ -2619,6 +2619,11 @@ body.mobile-nav-active #mobile-nav-toggle {
   background-size: cover;
 }
 
+.faq2-area {
+  background: url(../img/info-bg.jpg) center;
+  background-size: cover;
+}
+
 .faq-area .overlay-bg {
   background: rgba(0, 0, 0, 0.7);
 }
